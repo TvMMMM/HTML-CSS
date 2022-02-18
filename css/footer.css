@@ -1,0 +1,26 @@
+#footer {
+    background-color: #3bb7ec;
+}
+
+.footer{
+    padding: 1rem 0;
+}
+
+.footer-title{
+    color: rgba(255, 255, 255, 0.877);
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.footer-line{
+    border-bottom: 0.2rem rgba(255, 255, 255, 0.877) solid;
+    width: 6rem;
+}
+
+.footer-content{
+    margin-top: 1rem;
+    list-style-type: none;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.877);
+}
+
